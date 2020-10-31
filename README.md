@@ -40,3 +40,7 @@ Menu Commands used
 AI Non User Greedy Player Selection
 
 ![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/AfterGreedyPlayer.PNG)
+
+AI Non User Greedy Player Selection End Game
+
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/AfterGreedyPlayerend.PNG)
