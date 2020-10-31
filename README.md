@@ -44,3 +44,25 @@ AI Non User Greedy Player Selection
 AI Non User Greedy Player Selection End Game
 
 ![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/AfterGreedyPlayerend.PNG)
+
+
+Single Player Mode Selected
+
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/SinglePlayer.PNG)
+
+
+Single Player Mode Move Used
+
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/SinglePlayer%20move%20made.PNG)
+
+
+Single Player Save Game Used
+
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/SinglePlayerSaveMade.PNG)
+
+Single Player Load Game Used
+
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/SinglePlayerLoaded.PNG)
+
+
+
