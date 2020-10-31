@@ -37,6 +37,6 @@ Menu Commands used
 
 ![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/Menu%20Example.PNG)
 
-Single Player Selection
+AI Non User Greedy Player Selection
 
-![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/SinglePlayer.PNG)
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/AfterGreedyPlayer.PNG)
