@@ -29,7 +29,10 @@ This program creates a 2D text board on the command line and prompts the user to
 
 Demonstration Steps in order
 
-
-
+Menu
 
 ![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/Menu.PNG)
+
+Menu Commands used 
+
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Gem-Removal-Game/blob/master/Gem%20Removal%20Game/ReadMeImages/Menu%20Example.PNG)
